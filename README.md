@@ -1,2 +1,2 @@
-# planner_api
+# api.planner
 Planner API
